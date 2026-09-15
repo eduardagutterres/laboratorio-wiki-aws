@@ -258,7 +258,7 @@ O Amazon Bedrock pode usar esses trechos como contexto para gerar uma resposta e
 
 A resposta também pode apresentar a referência do arquivo de origem, para que o usuário consiga conferir de onde a informação foi retirada.
 
-Dessa forma, a Wiki não gera respostas com base no conteúdo dos documentos armazenados, usando a IA para organizar e apresentar essas informações.
+Dessa forma, a Wiki gera respostas com base no conteúdo dos documentos armazenados, usando a IA para organizar e apresentar essas informações.
 ```
 
 ---
