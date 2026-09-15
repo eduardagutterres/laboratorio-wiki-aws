@@ -15,8 +15,7 @@ Eduarda Gutterres
 15.09.2026
 
 **Link do repositório:**  
-Preencha aqui
-
+https://github.com/eduardagutterres/laboratorio-wiki-aws
 ---
 
 # ✅ Quest 1: O Mapa dos Arquivos Perdidos
